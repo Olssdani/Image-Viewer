@@ -1,0 +1,15 @@
+/*
+Style for the image viewer
+*/
+
+*, html {
+    margin:0;
+    padding:0;  
+}
+
+.nocursor { cursor:none; }
+
+img{
+    width: 100%;
+    height: 100%;
+}
